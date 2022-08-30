@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Kingsley199
+- 👀 I’m interested in ... Software programming
+- 🌱 I’m currently learning ... Software engineer
+- 💞️ I’m looking to collaborate on ... C-programming and python
+- 📫 How to reach me ..... kingsleycelestine15@gmail.com
